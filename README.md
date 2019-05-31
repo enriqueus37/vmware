@@ -1,23 +1,23 @@
 # vmware
 
-Python program the parses a git log file in .txt format.
-To run:
-python3 productivity.py
-Enter name of log file on prompt
+Python program that parses a git log file in .txt format.<br />
+To run:<br />
+python3 productivity.py<br />
+Enter name of log file on prompt<br />
 
 
 
+<br />
+About the train puzzle:<br />
+I realized that the first train might miss the line be having it go right twice. <br />
+I followed the same idea of having the second train (and first train up until it reaches the line) of going slowly. <br />
+Here is the updated code:<br />
 
-About the train puzzle:
-I realized that the first train might miss the line be having it go right twice. 
-I followed the same idea of having the second train (and first train up until it reaches the line) of going slowly. 
-Here is the updated code:
-
-Right
-Left
-Right
-If on mark:
-	Go to 7
-Go to 1
-Right
-Go to 7
+Right<br />
+Left<br />
+Right<br />
+If on mark:<br />
+	Go to 7<br />
+Go to 1<br />
+Right<br />
+Go to 7<br />
