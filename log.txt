@@ -1,0 +1,894 @@
+commit 6f06f6f4c87e659a91da56bb844eba2034edc871
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Oct 9 09:38:27 2018 +0100
+
+    Update README.md
+
+commit 8b2e2b758f09fde391f07280fcc8cd648be26927
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Thu Apr 5 16:42:35 2018 +0100
+
+    Update README.md
+
+commit 0ab6b77875c98fcb5a2c49d3dac972991143954a
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Thu Apr 5 16:42:05 2018 +0100
+
+    Update README.md
+
+commit b33170cff90d54aea3b430e217eef35ac7faa70b
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Thu Mar 22 09:20:15 2018 +0000
+
+    Update README.md
+
+commit 67f9db3c17c48579ee4cce4bebf855835a89c362
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Mar 20 12:47:54 2018 +0000
+
+    Update README.md
+
+commit 79943c45da46f0bd56b8f139e663a6f3f9b20c6b
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 27 12:13:00 2018 +0000
+
+    add prevent default for the search
+
+commit 67d3845533bb19e4273e0f67c2069a470a1530d3
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 27 12:08:43 2018 +0000
+
+    update indentation
+
+commit b2eec207cbac6de9006fb472d4db6b37a194f118
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 27 11:51:28 2018 +0000
+
+    Update README.md
+
+commit 2be63a40f2094d51568845521676668eb0c260f7
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Wed Feb 7 23:37:20 2018 +0000
+
+    Update Footer.spec.js
+
+commit 9ff6ba87eca1a87e6e57fcf5d927fa3d83418d66
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 6 16:25:26 2018 +0000
+
+    update volume controls
+
+commit 2c73abdc8aa4aa735dcf32ec6b099e6f911f3ad2
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 6 16:22:01 2018 +0000
+
+    add additional test for header and footer
+
+commit a25bf70ba8eae7ffbe82c3365b97dd4eb587b97b
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 6 15:57:08 2018 +0000
+
+    add simple test for footer
+
+commit 4f9f2e5e037916ffbe4d637cb93e4b6681add36f
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Tue Feb 6 15:55:19 2018 +0000
+
+    add header test
+
+commit 2689a0eeedc68a9f0147a40eaf887fa474a5e4fd
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Wed Jan 31 10:28:24 2018 +0000
+
+    use onchange
+
+commit c906712e42e9874ca517c1445db319b0af79b55c
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Wed Jan 31 10:19:41 2018 +0000
+
+    update proptypes
+
+commit 2c820934692a9b948b6595ff0a4108e194b271ba
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Thu Jan 25 21:54:17 2018 +0000
+
+    Update README.md
+
+commit 310812a3f9041cf092029ecab4e95c7b302bebe1
+Merge: 2edc598 7d7cd1e
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Thu Jan 18 15:22:04 2018 +0000
+
+    Merge pull request #8 from spitfire77/master
+    
+    optimize bundle size
+
+commit 7d7cd1efb20a2e8dca2f6acedbd900620c43709e
+Author: Alexey Chernyshev <er1x4ever@gmail.com>
+Date:   Thu Jan 18 17:29:43 2018 +0300
+
+    optimize bundle size
+
+commit 2edc5984739e94b8cb65df434b432d861e0881d0
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sat Dec 30 15:40:49 2017 +0000
+
+    Update README.md
+
+commit 773ab61a170ae3e4ab59cff99c6c7da69776dc24
+Merge: eec120c 5dcb2c0
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Wed Dec 20 15:30:26 2017 +0000
+
+    Merge pull request #5 from mojosoeun/refactor/add-semicolon-change-indentation
+    
+    refactor: add semicolon, change indentation and self closing tag
+
+commit 5dcb2c09a52a53eee4026ff066cd0919dbfe1bb9
+Author: mojosoeun <mojosoeun@gmail.com>
+Date:   Thu Dec 21 00:10:39 2017 +0900
+
+    refact: add semicolon, change indentation and self closing tag
+
+commit eec120c4d49ad0b29d84670178e8c68cbaeba418
+Merge: 44c019f c8dd1c2
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Wed Dec 13 11:44:18 2017 +0000
+
+    Merge pull request #4 from Pau1fitz/add-license-1
+    
+    Create LICENSE
+
+commit c8dd1c23e6a2b560e4e51d2a25db10c565f65e3d
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Wed Dec 13 11:44:09 2017 +0000
+
+    Create LICENSE
+
+commit 44c019fa93239f64e6fe17751fc9e76057cb828a
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Mon Dec 4 23:16:39 2017 +0000
+
+    update package json
+
+commit cd7fa744bec1b2b08f5e6c365837f932d1d38b33
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Mon Nov 27 17:52:32 2017 +0000
+
+    update screenshots with sound control
+
+commit 2bc6c9a41a41f8bcea74e64528fd9dde327832ff
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Mon Nov 27 17:47:03 2017 +0000
+
+    style volume
+
+commit 40393b8c99908f760005bd098c7c74edc091aa9c
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Mon Nov 27 17:42:50 2017 +0000
+
+    fix styling
+
+commit 7ec1960192539443efd95f415c61f9d9611a197d
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Mon Nov 27 17:37:18 2017 +0000
+
+    add volume
+
+commit 9b43233f09dcb8efe28a0360d31638fb31391ce3
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Mon Nov 27 16:58:44 2017 +0000
+
+    add volume control
+
+commit 49fd7d385dca26ee9bdf8456c83cbd935ddb7161
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Mon Nov 27 16:51:46 2017 +0000
+
+    add slider and volume controls
+
+commit 3ef4e971e8bcc74ed5f37f3857fe739c413c5f07
+Merge: a22631e 4eb40fd
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Mon Nov 27 15:24:23 2017 +0000
+
+    Merge pull request #2 from mstruebing/removeConsoleLog
+    
+    Remove console log
+
+commit 4eb40fdf205b8b18f6caf7e54e04e414ca3b2b22
+Author: Max Strübing <mxstrbng@gmail.com>
+Date:   Mon Nov 27 15:29:23 2017 +0100
+
+    remove unneeded console.logs
+
+commit 6f828762b1eff9affc7937e1fbf5a4391c690593
+Author: Max Strübing <mxstrbng@gmail.com>
+Date:   Mon Nov 27 15:24:53 2017 +0100
+
+    remove console.log
+
+commit a22631e0b3ccf3a72b5541b84a968678a87003b8
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 22:31:14 2017 +0000
+
+    update screenshots
+
+commit 2564c9f4513063e0aa0086c6d7359df918c97949
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 22:24:52 2017 +0000
+
+    update colors
+
+commit 9e54de8d6d2bd9d777089f623e9782c89cffbcad
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 19:50:05 2017 +0000
+
+    remove focus from button
+
+commit 02907fff78f0c53d350d32e077397d52306dcb7d
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 19:47:41 2017 +0000
+
+    update screenshots
+
+commit 017a4958e67dd2aa7a7044e76c535ef9b34ebc48
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 19:45:56 2017 +0000
+
+    add new screenshots
+
+commit 81823d932ec915d743c77c87afa973d0ee497339
+Merge: 6649d0b f35393c
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 19:40:15 2017 +0000
+
+    update readme
+
+commit 6649d0bd977b29e145a8ce55e581af1f6fdf1e8f
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 19:39:40 2017 +0000
+
+    add search
+
+commit f35393c476167312af78ec3b222371c28d93e9ef
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 18:20:38 2017 +0000
+
+    Update README.md
+
+commit 675437d6966ef2b444ec0ee19ec85b1ac7ee493e
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 18:19:52 2017 +0000
+
+    Update README.md
+
+commit 9e3639a7927e57dadca0bee799074566b10b1741
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 18:19:33 2017 +0000
+
+    Update README.md
+
+commit 632361873b2e245a83ffdba0f7f3543e54b201cc
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 18:18:30 2017 +0000
+
+    Update README.md
+
+commit f88d75ea67d4061753cd22de5ebb7c261cee232c
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:37:31 2017 +0000
+
+    Update README.md
+
+commit 02a5f05941f5e5a83700e7682a18d8f8bcb11c60
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:04:52 2017 +0000
+
+    Update README.md
+
+commit aa171496d4dd8e42ca6857795ed83def159829d3
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 17:02:21 2017 +0000
+
+    add images
+
+commit aed7e3da10ae6de00fbb53fcc56ca0c911702f68
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:01:23 2017 +0000
+
+    Update README.md
+
+commit f4636090bdecc728ae6232f54ccb839a01a651e8
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:01:06 2017 +0000
+
+    Update README.md
+
+commit 4672ed88234d3fffc3167f193984cf706a0a7679
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:00:57 2017 +0000
+
+    Update README.md
+
+commit d85ca242be3bcd00d10600a17324c4fb87f114bb
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:00:36 2017 +0000
+
+    Update README.md
+
+commit 38f90eb78ac0420fb893254772bcdfd04eddadde
+Author: Paul Fitzgerald <paulfitz99@gmail.com>
+Date:   Sun Nov 26 17:00:26 2017 +0000
+
+    Update README.md
+
+commit a1a7ed6549237b5a4034afd0a3b9c7339af18ebc
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 16:43:26 2017 +0000
+
+    update user styling
+
+commit 3890215c63a0f66af6b6cdfb68818b24ece7d0db
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 15:53:42 2017 +0000
+
+    update song actions
+
+commit 4ddf54d3a882048f1f8cbcbbf7988679a502535c
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 15:38:55 2017 +0000
+
+    add url
+
+commit 9ff795cd8e92b611ccef576869a0f78c33ca86a0
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 15:34:39 2017 +0000
+
+    add playlist pending
+
+commit f6c703ed2f7ef88e903f53c6c7c12dcb514f1f1a
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 15:18:16 2017 +0000
+
+    fix song list css
+
+commit 996489cb6904e316e72588c9b9c60b75b93e3d52
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 15:09:09 2017 +0000
+
+    allow user to pause and resume  song
+
+commit 6bb5838e8022d82449b93af6fbb626f389695d20
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 14:49:17 2017 +0000
+
+    add pause button when song playing
+
+commit 44d0ea165ba6e4615409364f6a25a5abceb19e5c
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sun Nov 26 13:07:57 2017 +0000
+
+    fix playlist bug
+
+commit 1c49aacc679f1ce7576ae09b27fd6b2f8f69adbc
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sat Nov 25 19:26:08 2017 +0000
+
+    move css for svg into css fil
+
+commit 9e779ece07fc93c8ad4afdcbac37eef0228da11e
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Sat Nov 25 18:42:29 2017 +0000
+
+    fix console error
+
+commit 8533157b0b3ad0d15b0c6de83c1452cdebce850b
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 17:02:40 2017 +0000
+
+    fix side marking for playlists
+
+commit cea4777e68a4cac6ae976117b19947dfa9b2989a
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 16:58:39 2017 +0000
+
+    add side mark
+
+commit 78890088bf795f3b4f157e862c0cbcb5809d813b
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 16:37:08 2017 +0000
+
+    dont show song list while loading
+
+commit faba17044e6d6d1f01459e07cd17d73a7dc00e9b
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 15:58:15 2017 +0000
+
+    update code
+
+commit 7bbe031a4daff442a867559d3db3d4ff3a458c2b
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 15:53:15 2017 +0000
+
+    fix browse error
+
+commit e20270e802d35123addc8b8e8e5f4c8353350709
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 15:51:04 2017 +0000
+
+    fix errors
+
+commit 1133f01dc036b5d76b587817f16d9b52c361b94e
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 15:37:03 2017 +0000
+
+    refactor with linting
+
+commit 4e7ee116ac955d9fe839c4a906d45219c13d6164
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 13:14:51 2017 +0000
+
+    increase size of album list
+
+commit 8089611653acf288bc444435c037f21363a024b6
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 12:07:26 2017 +0000
+
+    user can skip or rewin
+
+commit 4f57428212a0f20225e7b2031af1330f8d714085
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 11:24:45 2017 +0000
+
+    update size
+
+commit b05c011af4568d0bb67ad0aca0ae88535df0780b
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 11:20:10 2017 +0000
+
+    user can play featured playlists
+
+commit b5c07c610489adc63fc4b3e7a7c7ce6c9de2cab2
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 09:12:31 2017 +0000
+
+    rename to playlist menu
+
+commit fd3ad0f769d959749ecbddc9bf809ba1a7760da5
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 08:36:24 2017 +0000
+
+    update playlist name
+
+commit 884ee18e3888610716dbdc68eb2fabea0ea157aa
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Fri Nov 24 08:24:56 2017 +0000
+
+    add underline to sections in browse
+
+commit 3b2f28423e5ca1ba4edf78c43bc71aa3c4b01df7
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 23:30:49 2017 +0000
+
+    remove unused files
+
+commit 2abfa82d27924c115864c656f5d097f9a3e1fbc0
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 23:27:44 2017 +0000
+
+    remove logo
+
+commit d9ee06717039050889c17380c2bca8fb76c6ca0a
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 22:58:31 2017 +0000
+
+    show browse by default
+
+commit f0da6c0dc74ff8ed00f84fbc10fa73219c0e019b
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 19:10:32 2017 +0000
+
+    increase size of github tag
+
+commit da892dd1266e91dd121b1a357abb3eb6ddc33a93
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 18:05:12 2017 +0000
+
+    fix styling of headers
+
+commit 4e462597e36c4beb9d81f3b85bc35fe5142a0617
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 17:55:49 2017 +0000
+
+    add featured playlists
+
+commit 6eaa3058344f0c0e1fb7b5069eccb5ac5eccd0b1
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 17:47:50 2017 +0000
+
+    create a separate footer component
+
+commit 9aba8d8a9b9a152c048b9f6af42fe67d4a47a2ae
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 17:36:40 2017 +0000
+
+    send user back to homepage if error
+
+commit 976fa99e3c8bcee4b0cb9bd1609d238c9437da6d
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 16:57:34 2017 +0000
+
+    added github ribbon
+
+commit 3411a87563c287addc15b9a723400aed01e97f4b
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 16:35:27 2017 +0000
+
+    add browse sections
+
+commit 56662be04a72ac3a6618ea5a3db7b5d59a6132af
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 15:56:03 2017 +0000
+
+    fix styling
+
+commit 0756d4cd7bb621e10ef273d756da22105d7d9a3c
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 15:42:44 2017 +0000
+
+    update styling
+
+commit bcef85a45874103a980efbf9083c0d108eb664ba
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 15:35:41 2017 +0000
+
+    add browse section
+
+commit 4ffcfc637f65b1a347a151f8dba610f2e1ceb740
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 14:55:24 2017 +0000
+
+    prevent app breaking when no image
+
+commit 9ac842d041fdab5286108d4800de19ffcdf95abe
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 14:19:10 2017 +0000
+
+    improve song ui
+
+commit 1733d10466d1d25f3d93072ffd1fe962c17350a3
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 14:10:57 2017 +0000
+
+    user can add song to their library
+
+commit aeb28147db9463602f72750404d110866dcab557
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 11:30:50 2017 +0000
+
+    add link to artist page
+
+commit 2e13d7362b342108893d9b21c3b3a2d8c63f6fe6
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 11:16:29 2017 +0000
+
+    remove duplicates from album list
+
+commit ffc566454fa1de44607beae50bafcd43e00bf306
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 10:56:49 2017 +0000
+
+    update css
+
+commit 490a62490dd43ece573277c3f84b921f3099c411
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 10:31:28 2017 +0000
+
+    add opacity on hover on album
+
+commit 450dde2fb5ccaae17a8886ffe5b358b7476eddda
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 10:27:54 2017 +0000
+
+    update color
+
+commit 30ccc147a8bb8c1e7ae50b33f291a262d40d4583
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 10:26:47 2017 +0000
+
+    update colors
+
+commit e311235f8783f5bf8b41f285c940eafcbea9dd32
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 09:13:31 2017 +0000
+
+    fix format
+
+commit add6bd65114ef5eef92697a6770d2f25b9050560
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 08:58:14 2017 +0000
+
+    get artists
+
+commit dddbd1abef262d1b38a24d710d1593605d30cb65
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Thu Nov 23 08:37:41 2017 +0000
+
+    allow user play albums
+
+commit e73b37ea13c6a35e7992d26f7c49d08263eae720
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 07:22:38 2017 +0000
+
+    add album view
+
+commit e329a81318ff617df3ccbe50b23bd397671141d1
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 06:50:40 2017 +0000
+
+    create new component for main vieww
+
+commit a5b2924f121c395616234681f9ba091ef4768b69
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 06:34:02 2017 +0000
+
+    allow user scroll on side menu
+
+commit 826cff76197b116bab389759f3ba9e1c8561dcc9
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 06:30:11 2017 +0000
+
+    add padding to allow user see all tracks
+
+commit 08d72840fdc72810f153c688e9447d317be676a6
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 06:27:34 2017 +0000
+
+    remove duplicates from recently played and add lodash
+
+commit b3e3823db9ab47884a96bea15c912f1c31d35588
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 06:20:11 2017 +0000
+
+    add ability to pause and play songs
+
+commit 0c9e67241e55988849064647b957c4b63e66c528
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Thu Nov 23 00:49:22 2017 +0000
+
+    fix warnings
+
+commit d361f0285d06e82cdc4d0459864e43528726a0b9
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Thu Nov 23 00:47:37 2017 +0000
+
+    fix bug
+
+commit 9193863c4cfd744e4f104bfe04cd6c853d97ef2d
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Thu Nov 23 00:19:35 2017 +0000
+
+    small changes
+
+commit af72b6e93dca659996a9336d5683a9b97e291fe1
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Wed Nov 22 23:52:55 2017 +0000
+
+    remove console log statement
+
+commit fc9b6f28b4efcddbbbc4c9a902361a98a90e5158
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Wed Nov 22 23:52:32 2017 +0000
+
+    get playlist tracks for public playlists
+
+commit 1a36182b1567a7acd14344e2943bb81deadb6037
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Wed Nov 22 23:36:42 2017 +0000
+
+    update header when user changes
+
+commit 8018b51496ea0f98db31e45d30f0d26eef46c29f
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Wed Nov 22 18:18:02 2017 +0000
+
+    update title in store
+
+commit a79271fa307011a976feac3947cf741251952e2b
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Wed Nov 22 18:12:06 2017 +0000
+
+    use stateless component
+
+commit 4a96df63f94dcac20d33f8eb06c61410c83434c6
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Wed Nov 22 18:10:46 2017 +0000
+
+    separate main header into its own component
+
+commit f5d91b4027bc01d74c7b77db55edce088eb2b9b5
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Wed Nov 22 17:59:01 2017 +0000
+
+    add active class when song playing
+
+commit 05f6b7842cc79517cb63780b5b7a60acac5ab93a
+Author: Paul Fitzgerald <paulfitzgerald@unknown.home>
+Date:   Wed Nov 22 17:38:39 2017 +0000
+
+    user can stop and start songs
+
+commit 6a83ba06ea3ef6abd649dd028c274e3cbc4b3a07
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Wed Nov 22 16:58:31 2017 +0000
+
+    show pause button
+
+commit 49b90c68ae6a44104301dbc9667e4d8321fdb4f3
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Wed Nov 22 16:13:45 2017 +0000
+
+    prevent interval to stop playing when song has been paused
+
+commit 671ef7d768f648074573975f5eab876b2504d10e
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Wed Nov 22 16:03:16 2017 +0000
+
+    clear interval after pause
+
+commit 7351fe0eb2eef9671ca8c0ca3f0608f48a8d49d6
+Author: Paul Fitzgerald <paulfitzgerald@Pauls-MacBook-Air.local>
+Date:   Wed Nov 22 07:46:48 2017 +0000
+
+    only play one song at a time
+
+commit b0e923072fda70697e0ddc666b3027d2e4ca6907
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Wed Nov 22 00:14:26 2017 +0000
+
+    increase line height
+
+commit 0bb55370e6362a3fad04256bab57b01b912baa4f
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Wed Nov 22 00:09:33 2017 +0000
+
+    increase size of play button
+
+commit ed28d15ae1c59b1fcdd21cb98aa3791baf68c065
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Wed Nov 22 00:06:58 2017 +0000
+
+    add header
+
+commit 8ca07425cb24906cd12d9d3f6f7d7512f9d472f2
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 23:49:29 2017 +0000
+
+    update logo size
+
+commit 46623bf29684c91e921f040d743de190d3a2cdef
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 23:48:17 2017 +0000
+
+    update font weight of font awesome play icons
+
+commit 82698f7588edaa0c496c96cf41524eee197deacd
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 23:34:25 2017 +0000
+
+    update colors
+
+commit 0e79864acc28adf28448d9b3cfd659ac8bc56faf
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 23:29:21 2017 +0000
+
+    add date added and side menu
+
+commit e1c8d924a7c50c830ac32b9ee12843d4399a3770
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 19:50:13 2017 +0000
+
+    use moment to display time
+
+commit 90c301b29c2e04d2d1d4f3201e692e9fab88d0cf
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 19:28:08 2017 +0000
+
+    clear interval after song plays
+
+commit 35eb906d078c4b22065d69df180c4981caac0168
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 19:23:50 2017 +0000
+
+    show pause button
+
+commit 245864d2e97f7ab79e6f67bd39d454df6d266666
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 18:25:36 2017 +0000
+
+    add album artwokr
+
+commit e85bfb3b35fa500e8700019d714045e8011d36ec
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 17:51:12 2017 +0000
+
+    update colors
+
+commit ca9ef88d696b1abdfbb8ab5c69d374deba12830d
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 17:46:37 2017 +0000
+
+    add player controls
+
+commit f95858c344a5b28d2f3dc888181a17a2380a0320
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 16:52:19 2017 +0000
+
+    add player as footer
+
+commit c1010997ac04f41b8904d5fb1b6dad0939b05f8d
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 16:26:52 2017 +0000
+
+    use name for id
+
+commit f6e40dceb2e5387d924386651e5c4dd55c08bfb3
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 16:11:43 2017 +0000
+
+    fix errors
+
+commit 2a015057935454b189e7292b2f1957e327b1c5f7
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 15:50:22 2017 +0000
+
+    show playlist songs
+
+commit db66e3a136bf9505a774d69f46190d30b5238a65
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 15:20:17 2017 +0000
+
+    update styling and automatically load content
+
+commit 52962988ce25d0b09367bdfea2843acb6b7f6036
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 10:59:10 2017 +0000
+
+    remove unused fonts
+
+commit d2679aad41c5b7db3b5df543787bab13a8514104
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 10:57:46 2017 +0000
+
+    remove server.js file
+
+commit 46c8b0ac5bb9574f2146ab33b6464f64e060b491
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 10:31:19 2017 +0000
+
+    add user songs
+
+commit 541377370cf18ddb26dc2cbc5f8d915439fafbe4
+Author: Paul Fitzgerald <paul.fitzgerald@dowjones.com>
+Date:   Tue Nov 21 08:25:05 2017 +0000
+
+    fix reducer
+
+commit d60e71e0438b971f745d89302171b2fa8a39eb36
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 07:27:11 2017 +0000
+
+    add set up for user playlists
+
+commit cf84b01386f7df28911b82ea7d576846cfa39e73
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 07:12:19 2017 +0000
+
+    update readme
+
+commit bab8686521901eba9a063f00b2c18d191cbc89ee
+Author: Paul Fitzgerald <paulfitzgerald@pauls-air.home>
+Date:   Tue Nov 21 07:11:17 2017 +0000
+
+    first commit
