@@ -27,8 +27,8 @@ def parserFunction(file_name):
     for author in productivity:
         print(author, "made", productivity[author], x(productivity[author]), "in total.")
 
-def parseFunctionsWithDates(file_name):        
-    f = open(filename, "r")
+def parserFunctionWithDates(file_name):        
+    f = open(file_name, "r")
     productivity = {}
 
     for line in f:
@@ -60,5 +60,5 @@ def parseFunctionsWithDates(file_name):
 if __name__ == "__main__":
     file_name = input("Enter file name: ")
     parserFunction(file_name)
-    #parseFunctionsWithDates(file_name)
+    #parserFunctionWithDates(file_name)
     
