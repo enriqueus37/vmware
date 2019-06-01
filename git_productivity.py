@@ -1,5 +1,13 @@
-# To get log file:
+# This small program calculates the number of commits per Author and saves it in a dictionary.
+# It then prints the number of commits per author and the name of the author.
+#
+# To get log file to input into program:
 #   git log > log.txt
+#
+#
+#
+# I also added a second function (commented out in main) that saves the date of when the commit was made. 
+# This is not very relevant in terms of productivity of the employee but I wanted to implement it since I mentioned it on the phone call.
 
 def parserFunction(file_name):
     log_file = open(file_name, "r")
@@ -44,10 +52,9 @@ def parseFunctionsWithDates(file_name):
 
 
     print(productivity)
-
+    x = lambda y: "commits" if y > 1 else "commit"
     for author in productivity:
-        print(author, "made", productivity[author]["commits"], "commits in total.")
-
+        print(author, "made", productivity[author]["commits"], x(productivity[author]["commits"]), "in total.")
 
 
 if __name__ == "__main__":
